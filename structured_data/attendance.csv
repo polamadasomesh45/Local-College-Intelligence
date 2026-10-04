@@ -1,143 +1,101 @@
-,,,,,,,,,,,
-Student Master & Course Attendance Details,,,,,,,,,,,
-,,,,,,,,,,,
-USN,Student Name,Section,Gender,Admission Type,Status,Course Code,Course Name,Credits,Department,Faculty Name,Attendance %
-1RV25CI001,Aarav Sharma,A,Male,KCET,Active,MA231TF,Probability and Statistics for Machine Learning and Data Science,4,MA,Dr. Rajesh K,100%
-1RV25CI001,Aarav Sharma,A,Male,KCET,Active,CS233AI,Data Structures and Applications,4,CS,Dr. Sunitha M,100%
-1RV25CI001,Aarav Sharma,A,Male,KCET,Active,CI234AI,Design Principles of Cyber Physical Systems,4,CI,Prof. Ramesh Babu,100%
-1RV25CI001,Aarav Sharma,A,Male,KCET,Active,CS235AT,Operating Systems,3,CS,Dr. Priya Dharshini,75%
-1RV25CI001,Aarav Sharma,A,Male,KCET,Active,CS236AT,Quantum Computing Essentials,3,CS,Dr. Anand Swaroop,100%
-1RV25CI001,Aarav Sharma,A,Male,KCET,Active,CI238DL,Applied Design Thinking Lab,1,CI,Prof. Sneha K,100%
-1RV25CI001,Aarav Sharma,A,Male,KCET,Active,CV232TA,Environment and Sustainability,3,CV,Dr. Suresh Chandra,100%
-1RV25CI002,Aditi Rao,A,Female,COMEDK,Active,MA231TF,Probability and Statistics for Machine Learning and Data Science,4,MA,Dr. Rajesh K,100%
-1RV25CI002,Aditi Rao,A,Female,COMEDK,Active,CS233AI,Data Structures and Applications,4,CS,Dr. Sunitha M,100%
-1RV25CI002,Aditi Rao,A,Female,COMEDK,Active,CI234AI,Design Principles of Cyber Physical Systems,4,CI,Prof. Ramesh Babu,100%
-1RV25CI002,Aditi Rao,A,Female,COMEDK,Active,CS235AT,Operating Systems,3,CS,Dr. Priya Dharshini,100%
-1RV25CI002,Aditi Rao,A,Female,COMEDK,Active,CS236AT,Quantum Computing Essentials,3,CS,Dr. Anand Swaroop,100%
-1RV25CI002,Aditi Rao,A,Female,COMEDK,Active,CI238DL,Applied Design Thinking Lab,1,CI,Prof. Sneha K,100%
-1RV25CI002,Aditi Rao,A,Female,COMEDK,Active,CV232TA,Environment and Sustainability,3,CV,Dr. Suresh Chandra,85%
-1RV25CI003,Akshat Verma,A,Male,KCET,Active,MA231TF,Probability and Statistics for Machine Learning and Data Science,4,MA,Dr. Rajesh K,92%
-1RV25CI003,Akshat Verma,A,Male,KCET,Active,CS233AI,Data Structures and Applications,4,CS,Dr. Sunitha M,95%
-1RV25CI003,Akshat Verma,A,Male,KCET,Active,CI234AI,Design Principles of Cyber Physical Systems,4,CI,Prof. Ramesh Babu,88%
-1RV25CI003,Akshat Verma,A,Male,KCET,Active,CS235AT,Operating Systems,3,CS,Dr. Priya Dharshini,90%
-1RV25CI003,Akshat Verma,A,Male,KCET,Active,CS236AT,Quantum Computing Essentials,3,CS,Dr. Anand Swaroop,85%
-1RV25CI003,Akshat Verma,A,Male,KCET,Active,CI238DL,Applied Design Thinking Lab,1,CI,Prof. Sneha K,100%
-1RV25CI003,Akshat Verma,A,Male,KCET,Active,CV232TA,Environment and Sustainability,3,CV,Dr. Suresh Chandra,90%
-1RV25CI004,Ananya Hegde,A,Female,KCET,Active,MA231TF,Probability and Statistics for Machine Learning and Data Science,4,MA,Dr. Rajesh K,95%
-1RV25CI004,Ananya Hegde,A,Female,KCET,Active,CS233AI,Data Structures and Applications,4,CS,Dr. Sunitha M,98%
-1RV25CI004,Ananya Hegde,A,Female,KCET,Active,CI234AI,Design Principles of Cyber Physical Systems,4,CI,Prof. Ramesh Babu,92%
-1RV25CI004,Ananya Hegde,A,Female,KCET,Active,CS235AT,Operating Systems,3,CS,Dr. Priya Dharshini,94%
-1RV25CI004,Ananya Hegde,A,Female,KCET,Active,CS236AT,Quantum Computing Essentials,3,CS,Dr. Anand Swaroop,90%
-1RV25CI004,Ananya Hegde,A,Female,KCET,Active,CI238DL,Applied Design Thinking Lab,1,CI,Prof. Sneha K,100%
-1RV25CI004,Ananya Hegde,A,Female,KCET,Active,CV232TA,Environment and Sustainability,3,CV,Dr. Suresh Chandra,95%
-1RV25CI005,Aniruddh Nair,A,Male,Management,Active,MA231TF,Probability and Statistics for Machine Learning and Data Science,4,MA,Dr. Rajesh K,82%
-1RV25CI005,Aniruddh Nair,A,Male,Management,Active,CS233AI,Data Structures and Applications,4,CS,Dr. Sunitha M,85%
-1RV25CI005,Aniruddh Nair,A,Male,Management,Active,CI234AI,Design Principles of Cyber Physical Systems,4,CI,Prof. Ramesh Babu,80%
-1RV25CI005,Aniruddh Nair,A,Male,Management,Active,CS235AT,Operating Systems,3,CS,Dr. Priya Dharshini,88%
-1RV25CI005,Aniruddh Nair,A,Male,Management,Active,CS236AT,Quantum Computing Essentials,3,CS,Dr. Anand Swaroop,78%
-1RV25CI005,Aniruddh Nair,A,Male,Management,Active,CI238DL,Applied Design Thinking Lab,1,CI,Prof. Sneha K,90%
-1RV25CI005,Aniruddh Nair,A,Male,Management,Active,CV232TA,Environment and Sustainability,3,CV,Dr. Suresh Chandra,85%
-1RV25CI006,Anusha Kulkarni,A,Female,KCET,Active,MA231TF,Probability and Statistics for Machine Learning and Data Science,4,MA,Dr. Rajesh K,98%
-1RV25CI006,Anusha Kulkarni,A,Female,KCET,Active,CS233AI,Data Structures and Applications,4,CS,Dr. Sunitha M,100%
-1RV25CI006,Anusha Kulkarni,A,Female,KCET,Active,CI234AI,Design Principles of Cyber Physical Systems,4,CI,Prof. Ramesh Babu,95%
-1RV25CI006,Anusha Kulkarni,A,Female,KCET,Active,CS235AT,Operating Systems,3,CS,Dr. Priya Dharshini,96%
-1RV25CI006,Anusha Kulkarni,A,Female,KCET,Active,CS236AT,Quantum Computing Essentials,3,CS,Dr. Anand Swaroop,92%
-1RV25CI006,Anusha Kulkarni,A,Female,KCET,Active,CI238DL,Applied Design Thinking Lab,1,CI,Prof. Sneha K,100%
-1RV25CI006,Anusha Kulkarni,A,Female,KCET,Active,CV232TA,Environment and Sustainability,3,CV,Dr. Suresh Chandra,98%
-1RV25CI007,Arjun Mehta,A,Male,COMEDK,Active,MA231TF,Probability and Statistics for Machine Learning and Data Science,4,MA,Dr. Rajesh K,88%
-1RV25CI007,Arjun Mehta,A,Male,COMEDK,Active,CS233AI,Data Structures and Applications,4,CS,Dr. Sunitha M,90%
-1RV25CI007,Arjun Mehta,A,Male,COMEDK,Active,CI234AI,Design Principles of Cyber Physical Systems,4,CI,Prof. Ramesh Babu,85%
-1RV25CI007,Arjun Mehta,A,Male,COMEDK,Active,CS235AT,Operating Systems,3,CS,Dr. Priya Dharshini,87%
-1RV25CI007,Arjun Mehta,A,Male,COMEDK,Active,CS236AT,Quantum Computing Essentials,3,CS,Dr. Anand Swaroop,82%
-1RV25CI007,Arjun Mehta,A,Male,COMEDK,Active,CI238DL,Applied Design Thinking Lab,1,CI,Prof. Sneha K,95%
-1RV25CI007,Arjun Mehta,A,Male,COMEDK,Active,CV232TA,Environment and Sustainability,3,CV,Dr. Suresh Chandra,88%
-1RV25CI008,Avani Deshmukh,A,Female,KCET,Active,MA231TF,Probability and Statistics for Machine Learning and Data Science,4,MA,Dr. Rajesh K,94%
-1RV25CI008,Avani Deshmukh,A,Female,KCET,Active,CS233AI,Data Structures and Applications,4,CS,Dr. Sunitha M,96%
-1RV25CI008,Avani Deshmukh,A,Female,KCET,Active,CI234AI,Design Principles of Cyber Physical Systems,4,CI,Prof. Ramesh Babu,90%
-1RV25CI008,Avani Deshmukh,A,Female,KCET,Active,CS235AT,Operating Systems,3,CS,Dr. Priya Dharshini,92%
-1RV25CI008,Avani Deshmukh,A,Female,KCET,Active,CS236AT,Quantum Computing Essentials,3,CS,Dr. Anand Swaroop,88%
-1RV25CI008,Avani Deshmukh,A,Female,KCET,Active,CI238DL,Applied Design Thinking Lab,1,CI,Prof. Sneha K,100%
-1RV25CI008,Avani Deshmukh,A,Female,KCET,Active,CV232TA,Environment and Sustainability,3,CV,Dr. Suresh Chandra,94%
-1RV25CI009,Ayush Patel,A,Male,COMEDK,Active,MA231TF,Probability and Statistics for Machine Learning and Data Science,4,MA,Dr. Rajesh K,85%
-1RV25CI009,Ayush Patel,A,Male,COMEDK,Active,CS233AI,Data Structures and Applications,4,CS,Dr. Sunitha M,88%
-1RV25CI009,Ayush Patel,A,Male,COMEDK,Active,CI234AI,Design Principles of Cyber Physical Systems,4,CI,Prof. Ramesh Babu,82%
-1RV25CI009,Ayush Patel,A,Male,COMEDK,Active,CS235AT,Operating Systems,3,CS,Dr. Priya Dharshini,84%
-1RV25CI009,Ayush Patel,A,Male,COMEDK,Active,CS236AT,Quantum Computing Essentials,3,CS,Dr. Anand Swaroop,80%
-1RV25CI009,Ayush Patel,A,Male,COMEDK,Active,CI238DL,Applied Design Thinking Lab,1,CI,Prof. Sneha K,90%
-1RV25CI009,Ayush Patel,A,Male,COMEDK,Active,CV232TA,Environment and Sustainability,3,CV,Dr. Suresh Chandra,86%
-1RV25CI010,Bhavana Bhat,A,Female,KCET,Active,MA231TF,Probability and Statistics for Machine Learning and Data Science,4,MA,Dr. Rajesh K,96%
-1RV25CI010,Bhavana Bhat,A,Female,KCET,Active,CS233AI,Data Structures and Applications,4,CS,Dr. Sunitha M,98%
-1RV25CI010,Bhavana Bhat,A,Female,KCET,Active,CI234AI,Design Principles of Cyber Physical Systems,4,CI,Prof. Ramesh Babu,94%
-1RV25CI010,Bhavana Bhat,A,Female,KCET,Active,CS235AT,Operating Systems,3,CS,Dr. Priya Dharshini,95%
-1RV25CI010,Bhavana Bhat,A,Female,KCET,Active,CS236AT,Quantum Computing Essentials,3,CS,Dr. Anand Swaroop,91%
-1RV25CI010,Bhavana Bhat,A,Female,KCET,Active,CI238DL,Applied Design Thinking Lab,1,CI,Prof. Sneha K,100%
-1RV25CI010,Bhavana Bhat,A,Female,KCET,Active,CV232TA,Environment and Sustainability,3,CV,Dr. Suresh Chandra,96%
-1RV25CI011,Chetan Kumar,B,Male,KCET,Active,MA231TF,Probability and Statistics for Machine Learning and Data Science,4,MA,Dr. Rajesh K,100%
-1RV25CI011,Chetan Kumar,B,Male,KCET,Active,CS233AI,Data Structures and Applications,4,CS,Dr. Sunitha M,100%
-1RV25CI011,Chetan Kumar,B,Male,KCET,Active,CI234AI,Design Principles of Cyber Physical Systems,4,CI,Prof. Ramesh Babu,82%
-1RV25CI011,Chetan Kumar,B,Male,KCET,Active,CS235AT,Operating Systems,3,CS,Dr. Priya Dharshini,100%
-1RV25CI011,Chetan Kumar,B,Male,KCET,Active,CS236AT,Quantum Computing Essentials,3,CS,Dr. Anand Swaroop,100%
-1RV25CI011,Chetan Kumar,B,Male,KCET,Active,CI238DL,Applied Design Thinking Lab,1,CI,Prof. Sneha K,100%
-1RV25CI011,Chetan Kumar,B,Male,KCET,Active,ME232TB,Material Science for Engineers,3,ME,Prof. Vikram R,100%
-1RV25CI012,Deepa Shenoy,B,Female,COMEDK,Active,MA231TF,Probability and Statistics for Machine Learning and Data Science,4,MA,Dr. Rajesh K,90%
-1RV25CI012,Deepa Shenoy,B,Female,COMEDK,Active,CS233AI,Data Structures and Applications,4,CS,Dr. Sunitha M,92%
-1RV25CI012,Deepa Shenoy,B,Female,COMEDK,Active,CI234AI,Design Principles of Cyber Physical Systems,4,CI,Prof. Ramesh Babu,88%
-1RV25CI012,Deepa Shenoy,B,Female,COMEDK,Active,CS235AT,Operating Systems,3,CS,Dr. Priya Dharshini,100%
-1RV25CI012,Deepa Shenoy,B,Female,COMEDK,Active,CS236AT,Quantum Computing Essentials,3,CS,Dr. Anand Swaroop,100%
-1RV25CI012,Deepa Shenoy,B,Female,COMEDK,Active,CI238DL,Applied Design Thinking Lab,1,CI,Prof. Sneha K,95%
-1RV25CI012,Deepa Shenoy,B,Female,COMEDK,Active,ME232TB,Material Science for Engineers,3,ME,Prof. Vikram R,90%
-1RV25CI013,Dhruv Joshi,B,Male,KCET,Active,MA231TF,Probability and Statistics for Machine Learning and Data Science,4,MA,Dr. Rajesh K,88%
-1RV25CI013,Dhruv Joshi,B,Male,KCET,Active,CS233AI,Data Structures and Applications,4,CS,Dr. Sunitha M,90%
-1RV25CI013,Dhruv Joshi,B,Male,KCET,Active,CI234AI,Design Principles of Cyber Physical Systems,4,CI,Prof. Ramesh Babu,85%
-1RV25CI013,Dhruv Joshi,B,Male,KCET,Active,CS235AT,Operating Systems,3,CS,Dr. Priya Dharshini,86%
-1RV25CI013,Dhruv Joshi,B,Male,KCET,Active,CS236AT,Quantum Computing Essentials,3,CS,Dr. Anand Swaroop,82%
-1RV25CI013,Dhruv Joshi,B,Male,KCET,Active,CI238DL,Applied Design Thinking Lab,1,CI,Prof. Sneha K,90%
-1RV25CI013,Dhruv Joshi,B,Male,KCET,Active,ME232TB,Material Science for Engineers,3,ME,Prof. Vikram R,88%
-1RV25CI014,Divya Gowda,B,Female,KCET,Active,MA231TF,Probability and Statistics for Machine Learning and Data Science,4,MA,Dr. Rajesh K,95%
-1RV25CI014,Divya Gowda,B,Female,KCET,Active,CS233AI,Data Structures and Applications,4,CS,Dr. Sunitha M,96%
-1RV25CI014,Divya Gowda,B,Female,KCET,Active,CI234AI,Design Principles of Cyber Physical Systems,4,CI,Prof. Ramesh Babu,92%
-1RV25CI014,Divya Gowda,B,Female,KCET,Active,CS235AT,Operating Systems,3,CS,Dr. Priya Dharshini,94%
-1RV25CI014,Divya Gowda,B,Female,KCET,Active,CS236AT,Quantum Computing Essentials,3,CS,Dr. Anand Swaroop,90%
-1RV25CI014,Divya Gowda,B,Female,KCET,Active,CI238DL,Applied Design Thinking Lab,1,CI,Prof. Sneha K,100%
-1RV25CI014,Divya Gowda,B,Female,KCET,Active,ME232TB,Material Science for Engineers,3,ME,Prof. Vikram R,95%
-1RV25CI015,Gautham Reddy,B,Male,Management,Active,MA231TF,Probability and Statistics for Machine Learning and Data Science,4,MA,Dr. Rajesh K,80%
-1RV25CI015,Gautham Reddy,B,Male,Management,Active,CS233AI,Data Structures and Applications,4,CS,Dr. Sunitha M,82%
-1RV25CI015,Gautham Reddy,B,Male,Management,Active,CI234AI,Design Principles of Cyber Physical Systems,4,CI,Prof. Ramesh Babu,78%
-1RV25CI015,Gautham Reddy,B,Male,Management,Active,CS235AT,Operating Systems,3,CS,Dr. Priya Dharshini,85%
-1RV25CI015,Gautham Reddy,B,Male,Management,Active,CS236AT,Quantum Computing Essentials,3,CS,Dr. Anand Swaroop,75%
-1RV25CI015,Gautham Reddy,B,Male,Management,Active,CI238DL,Applied Design Thinking Lab,1,CI,Prof. Sneha K,88%
-1RV25CI015,Gautham Reddy,B,Male,Management,Active,ME232TB,Material Science for Engineers,3,ME,Prof. Vikram R,80%
-1RV25CI016,Harshitha Prasad,B,Female,KCET,Active,MA231TF,Probability and Statistics for Machine Learning and Data Science,4,MA,Dr. Rajesh K,96%
-1RV25CI016,Harshitha Prasad,B,Female,KCET,Active,CS233AI,Data Structures and Applications,4,CS,Dr. Sunitha M,98%
-1RV25CI016,Harshitha Prasad,B,Female,KCET,Active,CI234AI,Design Principles of Cyber Physical Systems,4,CI,Prof. Ramesh Babu,94%
-1RV25CI016,Harshitha Prasad,B,Female,KCET,Active,CS235AT,Operating Systems,3,CS,Dr. Priya Dharshini,95%
-1RV25CI016,Harshitha Prasad,B,Female,KCET,Active,CS236AT,Quantum Computing Essentials,3,CS,Dr. Anand Swaroop,92%
-1RV25CI016,Harshitha Prasad,B,Female,KCET,Active,CI238DL,Applied Design Thinking Lab,1,CI,Prof. Sneha K,100%
-1RV25CI016,Harshitha Prasad,B,Female,KCET,Active,ME232TB,Material Science for Engineers,3,ME,Prof. Vikram R,96%
-1RV25CI017,Ishaan Gupta,B,Male,COMEDK,Active,MA231TF,Probability and Statistics for Machine Learning and Data Science,4,MA,Dr. Rajesh K,86%
-1RV25CI017,Ishaan Gupta,B,Male,COMEDK,Active,CS233AI,Data Structures and Applications,4,CS,Dr. Sunitha M,89%
-1RV25CI017,Ishaan Gupta,B,Male,COMEDK,Active,CI234AI,Design Principles of Cyber Physical Systems,4,CI,Prof. Ramesh Babu,84%
-1RV25CI017,Ishaan Gupta,B,Male,COMEDK,Active,CS235AT,Operating Systems,3,CS,Dr. Priya Dharshini,85%
-1RV25CI017,Ishaan Gupta,B,Male,COMEDK,Active,CS236AT,Quantum Computing Essentials,3,CS,Dr. Anand Swaroop,80%
-1RV25CI017,Ishaan Gupta,B,Male,COMEDK,Active,CI238DL,Applied Design Thinking Lab,1,CI,Prof. Sneha K,92%
-1RV25CI017,Ishaan Gupta,B,Male,COMEDK,Active,ME232TB,Material Science for Engineers,3,ME,Prof. Vikram R,86%
-1RV25CI018,Kavya Srinivas,B,Female,KCET,Active,MA231TF,Probability and Statistics for Machine Learning and Data Science,4,MA,Dr. Rajesh K,94%
-1RV25CI018,Kavya Srinivas,B,Female,KCET,Active,CS233AI,Data Structures and Applications,4,CS,Dr. Sunitha M,95%
-1RV25CI018,Kavya Srinivas,B,Female,KCET,Active,CI234AI,Design Principles of Cyber Physical Systems,4,CI,Prof. Ramesh Babu,90%
-1RV25CI018,Kavya Srinivas,B,Female,KCET,Active,CS235AT,Operating Systems,3,CS,Dr. Priya Dharshini,92%
-1RV25CI018,Kavya Srinivas,B,Female,KCET,Active,CS236AT,Quantum Computing Essentials,3,CS,Dr. Anand Swaroop,88%
-1RV25CI018,Kavya Srinivas,B,Female,KCET,Active,CI238DL,Applied Design Thinking Lab,1,CI,Prof. Sneha K,100%
-1RV25CI018,Kavya Srinivas,B,Female,KCET,Active,ME232TB,Material Science for Engineers,3,ME,Prof. Vikram R,94%
-1RV25CI019,Kiran Kumar,B,Male,KCET,Active,MA231TF,Probability and Statistics for Machine Learning and Data Science,4,MA,Dr. Rajesh K,92%
-1RV25CI019,Kiran Kumar,B,Male,KCET,Active,CS233AI,Data Structures and Applications,4,CS,Dr. Sunitha M,94%
-1RV25CI019,Kiran Kumar,B,Male,KCET,Active,CI234AI,Design Principles of Cyber Physical Systems,4,CI,Prof. Ramesh Babu,88%
-1RV25CI019,Kiran Kumar,B,Male,KCET,Active,CS235AT,Operating Systems,3,CS,Dr. Priya Dharshini,90%
-1RV25CI019,Kiran Kumar,B,Male,KCET,Active,CS236AT,Quantum Computing Essentials,3,CS,Dr. Anand Swaroop,86%
-1RV25CI019,Kiran Kumar,B,Male,KCET,Active,CI238DL,Applied Design Thinking Lab,1,CI,Prof. Sneha K,95%
-1RV25CI019,Kiran Kumar,B,Male,KCET,Active,ME232TB,Material Science for Engineers,3,ME,Prof. Vikram R,92%
-1RV25CI020,Likith Shetty,B,Male,COMEDK,Active,MA231TF,Probability and Statistics for Machine Learning and Data Science,4,MA,Dr. Rajesh K,100%
-1RV25CI020,Likith Shetty,B,Male,COMEDK,Active,CS233AI,Data Structures and Applications,4,CS,Dr. Sunitha M,100%
-1RV25CI020,Likith Shetty,B,Male,COMEDK,Active,CI234AI,Design Principles of Cyber Physical Systems,4,CI,Prof. Ramesh Babu,100%
-1RV25CI020,Likith Shetty,B,Male,COMEDK,Active,CS235AT,Operating Systems,3,CS,Dr. Priya Dharshini,100%
-1RV25CI020,Likith Shetty,B,Male,COMEDK,Active,CI238DL,Applied Design Thinking Lab,1,CI,Prof. Sneha K,100%
-1RV25CI020,Likith Shetty,B,Male,COMEDK,Active,ME232TB,Material Science for Engineers,3,ME,Prof. Vikram R,95%
+USN,Student Name,Subject 1,Faculty 1,Att. 1 (%),Subject 2,Faculty 2,Att. 2 (%),Subject 3,Faculty 3,Att. 3 (%),Subject 4,Faculty 4,Att. 4 (%),Subject 5,Faculty 5,Att. 5 (%),Subject 6,Faculty 6,Att. 6 (%)
+1RV25CI001,Aarav Sharma,DSA,Dr. Sunitha M,92,OS,Dr. Priya Dharshini,87,Maths,Dr. Rajesh K,95,CPS,Prof. Ramesh Babu,81,Quantum,Dr. Anand Swaroop,90,Design Thinking,Prof. Sneha K,100
+1RV25CI002,Aditi Rao,DSA,Dr. Sunitha M,85,OS,Dr. Priya Dharshini,91,Maths,Dr. Rajesh K,88,CPS,Prof. Ramesh Babu,79,Quantum,Dr. Anand Swaroop,94,Design Thinking,Prof. Sneha K,96
+1RV25CI003,Akshat Verma,DSA,Dr. Sunitha M,78,OS,Dr. Priya Dharshini,82,Maths,Dr. Rajesh K,80,CPS,Prof. Ramesh Babu,85,Quantum,Dr. Anand Swaroop,88,Design Thinking,Prof. Sneha K,92
+1RV25CI004,Ananya Hegde,DSA,Dr. Sunitha M,96,OS,Dr. Priya Dharshini,94,Maths,Dr. Rajesh K,98,CPS,Prof. Ramesh Babu,92,Quantum,Dr. Anand Swaroop,95,Design Thinking,Prof. Sneha K,100
+1RV25CI005,Aniruddh Nair,DSA,Dr. Sunitha M,75,OS,Dr. Priya Dharshini,78,Maths,Dr. Rajesh K,76,CPS,Prof. Ramesh Babu,80,Quantum,Dr. Anand Swaroop,82,Design Thinking,Prof. Sneha K,88
+1RV25CI006,Anusha Kulkarni,DSA,Dr. Sunitha M,89,OS,Dr. Priya Dharshini,90,Maths,Dr. Rajesh K,92,CPS,Prof. Ramesh Babu,86,Quantum,Dr. Anand Swaroop,88,Design Thinking,Prof. Sneha K,95
+1RV25CI007,Arjun Mehta,DSA,Dr. Sunitha M,82,OS,Dr. Priya Dharshini,85,Maths,Dr. Rajesh K,81,CPS,Prof. Ramesh Babu,83,Quantum,Dr. Anand Swaroop,87,Design Thinking,Prof. Sneha K,90
+1RV25CI008,Avani Deshmukh,DSA,Dr. Sunitha M,88,OS,Dr. Priya Dharshini,86,Maths,Dr. Rajesh K,90,CPS,Prof. Ramesh Babu,89,Quantum,Dr. Anand Swaroop,91,Design Thinking,Prof. Sneha K,97
+1RV25CI009,Ayush Patel,DSA,Dr. Sunitha M,80,OS,Dr. Priya Dharshini,83,Maths,Dr. Rajesh K,79,CPS,Prof. Ramesh Babu,81,Quantum,Dr. Anand Swaroop,84,Design Thinking,Prof. Sneha K,89
+1RV25CI010,Bhavana Bhat,DSA,Dr. Sunitha M,94,OS,Dr. Priya Dharshini,92,Maths,Dr. Rajesh K,96,CPS,Prof. Ramesh Babu,91,Quantum,Dr. Anand Swaroop,93,Design Thinking,Prof. Sneha K,98
+1RV25CI011,Chetan Kumar,DSA,Dr. Sunitha M,83,OS,Dr. Priya Dharshini,85,Maths,Dr. Rajesh K,87,CPS,Prof. Ramesh Babu,82,Quantum,Dr. Anand Swaroop,86,Design Thinking,Prof. Sneha K,91
+1RV25CI012,Deepa Shenoy,DSA,Dr. Sunitha M,87,OS,Dr. Priya Dharshini,89,Maths,Dr. Rajesh K,88,CPS,Prof. Ramesh Babu,85,Quantum,Dr. Anand Swaroop,90,Design Thinking,Prof. Sneha K,94
+1RV25CI013,Dhruv Joshi,DSA,Dr. Sunitha M,81,OS,Dr. Priya Dharshini,80,Maths,Dr. Rajesh K,82,CPS,Prof. Ramesh Babu,78,Quantum,Dr. Anand Swaroop,83,Design Thinking,Prof. Sneha K,88
+1RV25CI014,Divya Gowda,DSA,Dr. Sunitha M,90,OS,Dr. Priya Dharshini,88,Maths,Dr. Rajesh K,91,CPS,Prof. Ramesh Babu,87,Quantum,Dr. Anand Swaroop,92,Design Thinking,Prof. Sneha K,96
+1RV25CI015,Gautham Reddy,DSA,Dr. Sunitha M,76,OS,Dr. Priya Dharshini,74,Maths,Dr. Rajesh K,75,CPS,Prof. Ramesh Babu,77,Quantum,Dr. Anand Swaroop,79,Design Thinking,Prof. Sneha K,85
+1RV25CI016,Harshitha Prasad,DSA,Dr. Sunitha M,93,OS,Dr. Priya Dharshini,95,Maths,Dr. Rajesh K,94,CPS,Prof. Ramesh Babu,90,Quantum,Dr. Anand Swaroop,96,Design Thinking,Prof. Sneha K,99
+1RV25CI017,Ishaan Gupta,DSA,Dr. Sunitha M,82,OS,Dr. Priya Dharshini,84,Maths,Dr. Rajesh K,81,CPS,Prof. Ramesh Babu,80,Quantum,Dr. Anand Swaroop,85,Design Thinking,Prof. Sneha K,90
+1RV25CI018,Kavya Srinivas,DSA,Dr. Sunitha M,91,OS,Dr. Priya Dharshini,93,Maths,Dr. Rajesh K,92,CPS,Prof. Ramesh Babu,89,Quantum,Dr. Anand Swaroop,94,Design Thinking,Prof. Sneha K,98
+1RV25CI019,Kiran Kumar,DSA,Dr. Sunitha M,84,OS,Dr. Priya Dharshini,86,Maths,Dr. Rajesh K,85,CPS,Prof. Ramesh Babu,83,Quantum,Dr. Anand Swaroop,87,Design Thinking,Prof. Sneha K,92
+1RV25CI020,Likith Shetty,DSA,Dr. Sunitha M,88,OS,Dr. Priya Dharshini,90,Maths,Dr. Rajesh K,89,CPS,Prof. Ramesh Babu,86,Quantum,Dr. Anand Swaroop,91,Design Thinking,Prof. Sneha K,95
+1RV25CI021,Madhav Kulkarni,DSA,Dr. Sunitha M,83,OS,Dr. Priya Dharshini,82,Maths,Dr. Rajesh K,85,CPS,Prof. Ramesh Babu,80,Quantum,Dr. Anand Swaroop,84,Design Thinking,Prof. Sneha K,91
+1RV25CI022,Meghana Murthy,DSA,Dr. Sunitha M,98,OS,Dr. Priya Dharshini,97,Maths,Dr. Rajesh K,99,CPS,Prof. Ramesh Babu,96,Quantum,Dr. Anand Swaroop,98,Design Thinking,Prof. Sneha K,100
+1RV25CI023,Niharika Das,DSA,Dr. Sunitha M,86,OS,Dr. Priya Dharshini,88,Maths,Dr. Rajesh K,87,CPS,Prof. Ramesh Babu,84,Quantum,Dr. Anand Swaroop,89,Design Thinking,Prof. Sneha K,93
+1RV25CI024,Nikhil Roy,DSA,Dr. Sunitha M,79,OS,Dr. Priya Dharshini,81,Maths,Dr. Rajesh K,80,CPS,Prof. Ramesh Babu,78,Quantum,Dr. Anand Swaroop,82,Design Thinking,Prof. Sneha K,87
+1RV25CI025,Nishanth Rao,DSA,Dr. Sunitha M,90,OS,Dr. Priya Dharshini,92,Maths,Dr. Rajesh K,91,CPS,Prof. Ramesh Babu,88,Quantum,Dr. Anand Swaroop,93,Design Thinking,Prof. Sneha K,96
+1RV25CI026,Pooja Kamat,DSA,Dr. Sunitha M,87,OS,Dr. Priya Dharshini,89,Maths,Dr. Rajesh K,88,CPS,Prof. Ramesh Babu,85,Quantum,Dr. Anand Swaroop,90,Design Thinking,Prof. Sneha K,94
+1RV25CI027,Pranav Menon,DSA,Dr. Sunitha M,81,OS,Dr. Priya Dharshini,83,Maths,Dr. Rajesh K,82,CPS,Prof. Ramesh Babu,80,Quantum,Dr. Anand Swaroop,84,Design Thinking,Prof. Sneha K,89
+1RV25CI028,Preethi Hegde,DSA,Dr. Sunitha M,94,OS,Dr. Priya Dharshini,96,Maths,Dr. Rajesh K,95,CPS,Prof. Ramesh Babu,92,Quantum,Dr. Anand Swaroop,96,Design Thinking,Prof. Sneha K,99
+1RV25CI029,Rahul Sharma,DSA,Dr. Sunitha M,84,OS,Dr. Priya Dharshini,86,Maths,Dr. Rajesh K,85,CPS,Prof. Ramesh Babu,83,Quantum,Dr. Anand Swaroop,87,Design Thinking,Prof. Sneha K,92
+1RV25CI030,Riya Iyer,DSA,Dr. Sunitha M,89,OS,Dr. Priya Dharshini,91,Maths,Dr. Rajesh K,90,CPS,Prof. Ramesh Babu,87,Quantum,Dr. Anand Swaroop,92,Design Thinking,Prof. Sneha K,96
+1RV25CI031,Rohan Verma,DSA,Dr. Sunitha M,77,OS,Dr. Priya Dharshini,79,Maths,Dr. Rajesh K,78,CPS,Prof. Ramesh Babu,76,Quantum,Dr. Anand Swaroop,80,Design Thinking,Prof. Sneha K,85
+1RV25CI032,Sahana Pai,DSA,Dr. Sunitha M,93,OS,Dr. Priya Dharshini,95,Maths,Dr. Rajesh K,94,CPS,Prof. Ramesh Babu,91,Quantum,Dr. Anand Swaroop,95,Design Thinking,Prof. Sneha K,98
+1RV25CI033,Sameer Khan,DSA,Dr. Sunitha M,82,OS,Dr. Priya Dharshini,84,Maths,Dr. Rajesh K,83,CPS,Prof. Ramesh Babu,81,Quantum,Dr. Anand Swaroop,85,Design Thinking,Prof. Sneha K,90
+1RV25CI034,Sanjana N,DSA,Dr. Sunitha M,89,OS,Dr. Priya Dharshini,91,Maths,Dr. Rajesh K,90,CPS,Prof. Ramesh Babu,88,Quantum,Dr. Anand Swaroop,92,Design Thinking,Prof. Sneha K,96
+1RV25CI035,Shreya Kulkarni,DSA,Dr. Sunitha M,96,OS,Dr. Priya Dharshini,98,Maths,Dr. Rajesh K,97,CPS,Prof. Ramesh Babu,94,Quantum,Dr. Anand Swaroop,97,Design Thinking,Prof. Sneha K,100
+1RV25CI036,Siddharth Pillai,DSA,Dr. Sunitha M,80,OS,Dr. Priya Dharshini,82,Maths,Dr. Rajesh K,81,CPS,Prof. Ramesh Babu,79,Quantum,Dr. Anand Swaroop,83,Design Thinking,Prof. Sneha K,88
+1RV25CI037,Sneha Deshpande,DSA,Dr. Sunitha M,88,OS,Dr. Priya Dharshini,90,Maths,Dr. Rajesh K,89,CPS,Prof. Ramesh Babu,86,Quantum,Dr. Anand Swaroop,91,Design Thinking,Prof. Sneha K,95
+1RV25CI038,Somashekar B,DSA,Dr. Sunitha M,85,OS,Dr. Priya Dharshini,87,Maths,Dr. Rajesh K,86,CPS,Prof. Ramesh Babu,84,Quantum,Dr. Anand Swaroop,88,Design Thinking,Prof. Sneha K,93
+1RV25CI039,Sourabh Patil,DSA,Dr. Sunitha M,73,OS,Dr. Priya Dharshini,75,Maths,Dr. Rajesh K,74,CPS,Prof. Ramesh Babu,72,Quantum,Dr. Anand Swaroop,76,Design Thinking,Prof. Sneha K,81
+1RV25CI040,Srishti Shenoy,DSA,Dr. Sunitha M,92,OS,Dr. Priya Dharshini,94,Maths,Dr. Rajesh K,93,CPS,Prof. Ramesh Babu,90,Quantum,Dr. Anand Swaroop,94,Design Thinking,Prof. Sneha K,98
+1RV25CI041,Tanvi Hegde,DSA,Dr. Sunitha M,91,OS,Dr. Priya Dharshini,93,Maths,Dr. Rajesh K,92,CPS,Prof. Ramesh Babu,89,Quantum,Dr. Anand Swaroop,93,Design Thinking,Prof. Sneha K,97
+1RV25CI042,Tarun Reddy,DSA,Dr. Sunitha M,83,OS,Dr. Priya Dharshini,85,Maths,Dr. Rajesh K,84,CPS,Prof. Ramesh Babu,82,Quantum,Dr. Anand Swaroop,86,Design Thinking,Prof. Sneha K,91
+1RV25CI043,Tejaswini M,DSA,Dr. Sunitha M,95,OS,Dr. Priya Dharshini,97,Maths,Dr. Rajesh K,96,CPS,Prof. Ramesh Babu,93,Quantum,Dr. Anand Swaroop,96,Design Thinking,Prof. Sneha K,99
+1RV25CI044,Utkarsh Sharma,DSA,Dr. Sunitha M,79,OS,Dr. Priya Dharshini,81,Maths,Dr. Rajesh K,80,CPS,Prof. Ramesh Babu,78,Quantum,Dr. Anand Swaroop,82,Design Thinking,Prof. Sneha K,87
+1RV25CI045,Vaibhav Naik,DSA,Dr. Sunitha M,86,OS,Dr. Priya Dharshini,88,Maths,Dr. Rajesh K,87,CPS,Prof. Ramesh Babu,85,Quantum,Dr. Anand Swaroop,89,Design Thinking,Prof. Sneha K,94
+1RV25CI046,Vaishnavi Rao,DSA,Dr. Sunitha M,93,OS,Dr. Priya Dharshini,95,Maths,Dr. Rajesh K,94,CPS,Prof. Ramesh Babu,91,Quantum,Dr. Anand Swaroop,95,Design Thinking,Prof. Sneha K,98
+1RV25CI047,Varun Kumar,DSA,Dr. Sunitha M,82,OS,Dr. Priya Dharshini,84,Maths,Dr. Rajesh K,83,CPS,Prof. Ramesh Babu,81,Quantum,Dr. Anand Swaroop,85,Design Thinking,Prof. Sneha K,90
+1RV25CI048,Vedanth Joshi,DSA,Dr. Sunitha M,89,OS,Dr. Priya Dharshini,91,Maths,Dr. Rajesh K,90,CPS,Prof. Ramesh Babu,87,Quantum,Dr. Anand Swaroop,92,Design Thinking,Prof. Sneha K,96
+1RV25CI049,Vinayaka Bhat,DSA,Dr. Sunitha M,78,OS,Dr. Priya Dharshini,80,Maths,Dr. Rajesh K,79,CPS,Prof. Ramesh Babu,77,Quantum,Dr. Anand Swaroop,81,Design Thinking,Prof. Sneha K,86
+1RV25CI050,Yashaswini K,DSA,Dr. Sunitha M,97,OS,Dr. Priya Dharshini,99,Maths,Dr. Rajesh K,98,CPS,Prof. Ramesh Babu,95,Quantum,Dr. Anand Swaroop,98,Design Thinking,Prof. Sneha K,100
+1RV25CI051,Abhinav V,DSA,Dr. Sunitha M,87,OS,Dr. Priya Dharshini,89,Maths,Dr. Rajesh K,88,CPS,Prof. Ramesh Babu,85,Quantum,Dr. Anand Swaroop,90,Design Thinking,Prof. Sneha K,94
+1RV25CI052,Adarsh B,DSA,Dr. Sunitha M,84,OS,Dr. Priya Dharshini,86,Maths,Dr. Rajesh K,85,CPS,Prof. Ramesh Babu,83,Quantum,Dr. Anand Swaroop,87,Design Thinking,Prof. Sneha K,92
+1RV25CI053,Bharath G,DSA,Dr. Sunitha M,89,OS,Dr. Priya Dharshini,91,Maths,Dr. Rajesh K,90,CPS,Prof. Ramesh Babu,87,Quantum,Dr. Anand Swaroop,92,Design Thinking,Prof. Sneha K,96
+1RV25CI054,Chandan M,DSA,Dr. Sunitha M,80,OS,Dr. Priya Dharshini,82,Maths,Dr. Rajesh K,81,CPS,Prof. Ramesh Babu,79,Quantum,Dr. Anand Swaroop,83,Design Thinking,Prof. Sneha K,88
+1RV25CI055,Deepthi S,DSA,Dr. Sunitha M,92,OS,Dr. Priya Dharshini,94,Maths,Dr. Rajesh K,93,CPS,Prof. Ramesh Babu,90,Quantum,Dr. Anand Swaroop,94,Design Thinking,Prof. Sneha K,98
+1RV25CI056,Ganesh K,DSA,Dr. Sunitha M,78,OS,Dr. Priya Dharshini,80,Maths,Dr. Rajesh K,79,CPS,Prof. Ramesh Babu,77,Quantum,Dr. Anand Swaroop,81,Design Thinking,Prof. Sneha K,86
+1RV25CI057,Hariharan R,DSA,Dr. Sunitha M,86,OS,Dr. Priya Dharshini,88,Maths,Dr. Rajesh K,87,CPS,Prof. Ramesh Babu,85,Quantum,Dr. Anand Swaroop,89,Design Thinking,Prof. Sneha K,94
+1RV25CI058,Indresh P,DSA,Dr. Sunitha M,83,OS,Dr. Priya Dharshini,85,Maths,Dr. Rajesh K,84,CPS,Prof. Ramesh Babu,82,Quantum,Dr. Anand Swaroop,86,Design Thinking,Prof. Sneha K,91
+1RV25CI059,Jayanth N,DSA,Dr. Sunitha M,88,OS,Dr. Priya Dharshini,90,Maths,Dr. Rajesh K,89,CPS,Prof. Ramesh Babu,86,Quantum,Dr. Anand Swaroop,91,Design Thinking,Prof. Sneha K,95
+1RV25CI060,Karthik S,DSA,Dr. Sunitha M,90,OS,Dr. Priya Dharshini,92,Maths,Dr. Rajesh K,91,CPS,Prof. Ramesh Babu,88,Quantum,Dr. Anand Swaroop,93,Design Thinking,Prof. Sneha K,97
+1RV25CI061,Aditya H,DSA,Dr. Sunitha M,93,OS,Dr. Priya Dharshini,95,Maths,Dr. Rajesh K,94,CPS,Prof. Ramesh Babu,91,Quantum,Dr. Anand Swaroop,95,Design Thinking,Prof. Sneha K,98
+1RV25CI062,Amrutha V,DSA,Dr. Sunitha M,87,OS,Dr. Priya Dharshini,89,Maths,Dr. Rajesh K,88,CPS,Prof. Ramesh Babu,85,Quantum,Dr. Anand Swaroop,90,Design Thinking,Prof. Sneha K,94
+1RV25CI063,Bhuvan Gowda,DSA,Dr. Sunitha M,80,OS,Dr. Priya Dharshini,82,Maths,Dr. Rajesh K,81,CPS,Prof. Ramesh Babu,79,Quantum,Dr. Anand Swaroop,83,Design Thinking,Prof. Sneha K,88
+1RV25CI064,Chaithra N,DSA,Dr. Sunitha M,95,OS,Dr. Priya Dharshini,97,Maths,Dr. Rajesh K,96,CPS,Prof. Ramesh Babu,93,Quantum,Dr. Anand Swaroop,96,Design Thinking,Prof. Sneha K,99
+1RV25CI065,Darshan K,DSA,Dr. Sunitha M,85,OS,Dr. Priya Dharshini,87,Maths,Dr. Rajesh K,86,CPS,Prof. Ramesh Babu,84,Quantum,Dr. Anand Swaroop,88,Design Thinking,Prof. Sneha K,93
+1RV25CI066,Esha Sharma,DSA,Dr. Sunitha M,89,OS,Dr. Priya Dharshini,91,Maths,Dr. Rajesh K,90,CPS,Prof. Ramesh Babu,87,Quantum,Dr. Anand Swaroop,92,Design Thinking,Prof. Sneha K,96
+1RV25CI067,Farhan Ahmed,DSA,Dr. Sunitha M,82,OS,Dr. Priya Dharshini,84,Maths,Dr. Rajesh K,83,CPS,Prof. Ramesh Babu,81,Quantum,Dr. Anand Swaroop,85,Design Thinking,Prof. Sneha K,90
+1RV25CI068,Gitanjali R,DSA,Dr. Sunitha M,91,OS,Dr. Priya Dharshini,93,Maths,Dr. Rajesh K,92,CPS,Prof. Ramesh Babu,89,Quantum,Dr. Anand Swaroop,93,Design Thinking,Prof. Sneha K,97
+1RV25CI069,Hemanth M,DSA,Dr. Sunitha M,76,OS,Dr. Priya Dharshini,78,Maths,Dr. Rajesh K,77,CPS,Prof. Ramesh Babu,75,Quantum,Dr. Anand Swaroop,79,Design Thinking,Prof. Sneha K,84
+1RV25CI070,Ishwarya S,DSA,Dr. Sunitha M,93,OS,Dr. Priya Dharshini,95,Maths,Dr. Rajesh K,94,CPS,Prof. Ramesh Babu,91,Quantum,Dr. Anand Swaroop,95,Design Thinking,Prof. Sneha K,98
+1RV25CI071,Abhay Kumar,DSA,Dr. Sunitha M,88,OS,Dr. Priya Dharshini,90,Maths,Dr. Rajesh K,89,CPS,Prof. Ramesh Babu,86,Quantum,Dr. Anand Swaroop,91,Design Thinking,Prof. Sneha K,95
+1RV25CI072,Bindu Shree,DSA,Dr. Sunitha M,90,OS,Dr. Priya Dharshini,92,Maths,Dr. Rajesh K,91,CPS,Prof. Ramesh Babu,88,Quantum,Dr. Anand Swaroop,93,Design Thinking,Prof. Sneha K,97
+1RV25CI073,Chirag Jain,DSA,Dr. Sunitha M,83,OS,Dr. Priya Dharshini,85,Maths,Dr. Rajesh K,84,CPS,Prof. Ramesh Babu,82,Quantum,Dr. Anand Swaroop,86,Design Thinking,Prof. Sneha K,91
+1RV25CI074,Deepika R,DSA,Dr. Sunitha M,92,OS,Dr. Priya Dharshini,94,Maths,Dr. Rajesh K,93,CPS,Prof. Ramesh Babu,90,Quantum,Dr. Anand Swaroop,94,Design Thinking,Prof. Sneha K,98
+1RV25CI075,Gokul Nath,DSA,Dr. Sunitha M,79,OS,Dr. Priya Dharshini,81,Maths,Dr. Rajesh K,80,CPS,Prof. Ramesh Babu,78,Quantum,Dr. Anand Swaroop,82,Design Thinking,Prof. Sneha K,87
+1RV25CI076,Akshay Kumar,DSA,Dr. Sunitha M,87,OS,Dr. Priya Dharshini,89,Maths,Dr. Rajesh K,88,CPS,Prof. Ramesh Babu,85,Quantum,Dr. Anand Swaroop,90,Design Thinking,Prof. Sneha K,94
+1RV25CI077,Bhavya Shree,DSA,Dr. Sunitha M,91,OS,Dr. Priya Dharshini,93,Maths,Dr. Rajesh K,92,CPS,Prof. Ramesh Babu,89,Quantum,Dr. Anand Swaroop,93,Design Thinking,Prof. Sneha K,97
+1RV25CI078,Chethan Gowda,DSA,Dr. Sunitha M,81,OS,Dr. Priya Dharshini,83,Maths,Dr. Rajesh K,82,CPS,Prof. Ramesh Babu,80,Quantum,Dr. Anand Swaroop,84,Design Thinking,Prof. Sneha K,89
+1RV25CI079,Divya Shree,DSA,Dr. Sunitha M,94,OS,Dr. Priya Dharshini,96,Maths,Dr. Rajesh K,95,CPS,Prof. Ramesh Babu,92,Quantum,Dr. Anand Swaroop,96,Design Thinking,Prof. Sneha K,99
+1RV25CI080,Harish M,DSA,Dr. Sunitha M,84,OS,Dr. Priya Dharshini,86,Maths,Dr. Rajesh K,85,CPS,Prof. Ramesh Babu,83,Quantum,Dr. Anand Swaroop,87,Design Thinking,Prof. Sneha K,92
+1RV25CI081,Indu Priya,DSA,Dr. Sunitha M,89,OS,Dr. Priya Dharshini,91,Maths,Dr. Rajesh K,90,CPS,Prof. Ramesh Babu,87,Quantum,Dr. Anand Swaroop,92,Design Thinking,Prof. Sneha K,96
+1RV25CI082,Janardhan R,DSA,Dr. Sunitha M,82,OS,Dr. Priya Dharshini,84,Maths,Dr. Rajesh K,83,CPS,Prof. Ramesh Babu,81,Quantum,Dr. Anand Swaroop,85,Design Thinking,Prof. Sneha K,90
+1RV25CI083,Keerthi Vasa,DSA,Dr. Sunitha M,90,OS,Dr. Priya Dharshini,92,Maths,Dr. Rajesh K,91,CPS,Prof. Ramesh Babu,88,Quantum,Dr. Anand Swaroop,93,Design Thinking,Prof. Sneha K,97
+1RV25CI084,Lokesh Kumar,DSA,Dr. Sunitha M,75,OS,Dr. Priya Dharshini,77,Maths,Dr. Rajesh K,76,CPS,Prof. Ramesh Babu,74,Quantum,Dr. Anand Swaroop,78,Design Thinking,Prof. Sneha K,83
+1RV25CI085,Monisha B,DSA,Dr. Sunitha M,93,OS,Dr. Priya Dharshini,95,Maths,Dr. Rajesh K,94,CPS,Prof. Ramesh Babu,91,Quantum,Dr. Anand Swaroop,95,Design Thinking,Prof. Sneha K,98
+1RV25CI086,Abhishek P,DSA,Dr. Sunitha M,86,OS,Dr. Priya Dharshini,88,Maths,Dr. Rajesh K,87,CPS,Prof. Ramesh Babu,84,Quantum,Dr. Anand Swaroop,89,Design Thinking,Prof. Sneha K,93
+1RV25CI087,Bharath Kumar,DSA,Dr. Sunitha M,83,OS,Dr. Priya Dharshini,85,Maths,Dr. Rajesh K,84,CPS,Prof. Ramesh Babu,82,Quantum,Dr. Anand Swaroop,86,Design Thinking,Prof. Sneha K,91
+1RV25CI088,Chandrashekar,DSA,Dr. Sunitha M,78,OS,Dr. Priya Dharshini,80,Maths,Dr. Rajesh K,79,CPS,Prof. Ramesh Babu,77,Quantum,Dr. Anand Swaroop,81,Design Thinking,Prof. Sneha K,86
+1RV25CI089,Dhanush Gowda,DSA,Dr. Sunitha M,90,OS,Dr. Priya Dharshini,92,Maths,Dr. Rajesh K,91,CPS,Prof. Ramesh Babu,88,Quantum,Dr. Anand Swaroop,93,Design Thinking,Prof. Sneha K,97
+1RV25CI090,Gagan R,DSA,Dr. Sunitha M,81,OS,Dr. Priya Dharshini,83,Maths,Dr. Rajesh K,82,CPS,Prof. Ramesh Babu,80,Quantum,Dr. Anand Swaroop,84,Design Thinking,Prof. Sneha K,89
+1RV25CI091,Anusha V,DSA,Dr. Sunitha M,91,OS,Dr. Priya Dharshini,93,Maths,Dr. Rajesh K,92,CPS,Prof. Ramesh Babu,89,Quantum,Dr. Anand Swaroop,94,Design Thinking,Prof. Sneha K,98
+1RV25CI092,Deepak Kumar,DSA,Dr. Sunitha M,85,OS,Dr. Priya Dharshini,87,Maths,Dr. Rajesh K,86,CPS,Prof. Ramesh Babu,84,Quantum,Dr. Anand Swaroop,88,Design Thinking,Prof. Sneha K,93
+1RV25CI093,Harshavardhan,DSA,Dr. Sunitha M,79,OS,Dr. Priya Dharshini,81,Maths,Dr. Rajesh K,80,CPS,Prof. Ramesh Babu,78,Quantum,Dr. Anand Swaroop,82,Design Thinking,Prof. Sneha K,87
+1RV25CI094,Kavya Shree,DSA,Dr. Sunitha M,93,OS,Dr. Priya Dharshini,95,Maths,Dr. Rajesh K,94,CPS,Prof. Ramesh Babu,91,Quantum,Dr. Anand Swaroop,95,Design Thinking,Prof. Sneha K,98
+1RV25CI095,Manjunath K,DSA,Dr. Sunitha M,82,OS,Dr. Priya Dharshini,84,Maths,Dr. Rajesh K,83,CPS,Prof. Ramesh Babu,81,Quantum,Dr. Anand Swaroop,85,Design Thinking,Prof. Sneha K,90
+1RV25CI096,Archana M,DSA,Dr. Sunitha M,92,OS,Dr. Priya Dharshini,94,Maths,Dr. Rajesh K,93,CPS,Prof. Ramesh Babu,90,Quantum,Dr. Anand Swaroop,94,Design Thinking,Prof. Sneha K,98
+1RV25CI097,Kavyashree N,DSA,Dr. Sunitha M,88,OS,Dr. Priya Dharshini,90,Maths,Dr. Rajesh K,89,CPS,Prof. Ramesh Babu,86,Quantum,Dr. Anand Swaroop,91,Design Thinking,Prof. Sneha K,95
+1RV25CI098,Niveditha S,DSA,Dr. Sunitha M,84,OS,Dr. Priya Dharshini,86,Maths,Dr. Rajesh K,85,CPS,Prof. Ramesh Babu,83,Quantum,Dr. Anand Swaroop,87,Design Thinking,Prof. Sneha K,92
+1RV25CI099,Rashmi Bhat,DSA,Dr. Sunitha M,90,OS,Dr. Priya Dharshini,92,Maths,Dr. Rajesh K,91,CPS,Prof. Ramesh Babu,88,Quantum,Dr. Anand Swaroop,93,Design Thinking,Prof. Sneha K,97
+1RV25CI100,Swathi Rao,DSA,Dr. Sunitha M,94,OS,Dr. Priya Dharshini,96,Maths,Dr. Rajesh K,95,CPS,Prof. Ramesh Babu,92,Quantum,Dr. Anand Swaroop,96,Design Thinking,Prof. Sneha K,99
